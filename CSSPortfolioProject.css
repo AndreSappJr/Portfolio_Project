@@ -1,0 +1,70 @@
+
+.bio {
+    text-align: center;
+    background-image: andre.jpg; 
+}
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  
+}
+
+.topnav a:hover {
+  background-color: #7fc2d9;
+  color: rgb(0, 0, 0);
+}
+
+.topnav a.active {
+  background-color: #2ee8e2;
+  color: white;
+}
+table, th, td {
+    border: 1px solid;
+    width: 50;
+    margin-left: auto;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: auto;
+  background-color: rgb(17, 196, 196);
+}
+.contactinfo, .intro {
+    text-align: center;
+    
+} 
+ul {
+    list-style: none;
+}
+h2, h1 {
+    text-align: center;
+    background-color: rgb(30, 160, 207);
+    color: white;
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://img.freepik.com/free-vector/flat-geometric-background_23-2148957201.jpg?w=740&t=st=1675627984~exp=1675628584~hmac=429dc0cbf6fe6cec931e667551ef09c426d0c8cb9e457f25a8b18b8be87b3797);
+  
+
+}
+
+p {
+  color: white;
+  background-color: #e4cd23;
+}
+img {
+  
+  object-fit: contain;
+  mix-blend-mode: darken ;
+}
